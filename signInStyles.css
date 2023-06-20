@@ -27,22 +27,11 @@ background-color:#709ef4
   display: table;
 }
 
-.cancelbtn { /*cancle button*/
-    background-color: #6060eb;
-    color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: none;
-    cursor: pointer;
-    opacity: 0.9;
-    float: right;
-    width: 50%;
-}
 
 
 
-.signinbtn { /*sighn up button*/
-    background-color: #60aaeb;
+.buybtn { 
+    background-color: #f70808;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -50,16 +39,13 @@ background-color:#709ef4
     cursor: pointer;
     opacity: 0.9;
     float: left;
-    width: 50%;
+    width: 100%;
 }
 
-.cancelbtn:hover {  /* change bg colour on hover */
-    background-color: #bf5b54;
+.buybtn:hover {  /* change bg colour on hover */
+    background-color: #e36b62;
 }
 
-.signupbtn:hover { /* change bg colour on hover */
-    background-color: #52ce58;
-}
 
 .link {
   color:#0a5e9b;
